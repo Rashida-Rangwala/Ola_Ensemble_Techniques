@@ -1,11 +1,11 @@
-## Ola_Ensemble_Techniques
+# Ola_Ensemble_Techniques
 
 This project aims to predict driver churn at Ola Cabs using historical driver data.
 
-# Problem Statement
+## Problem Statement
 Ola faces high driver churn, negatively impacting both driver morale and acquisition costs. This project seeks to identify key factors influencing driver departures by analyzing their demographics, performance metrics, and tenure information. We aim to build a model predicting driver attrition to facilitate proactive retention strategies.
 
-# Dataset
+## Dataset
 The project utilizes a dataset named ola_driver.csv containing monthly driver information for 2019 and 2020. It includes attributes like:
 
 Demographics: City, Age, Gender (encoded as Male: 0, Female: 1)
@@ -13,7 +13,7 @@ Tenure: Joining Date, Last Working Date
 Performance: Quarterly Rating, Monthly Business Value, Grade, Income
 Additional: Education Level, Joining Designation
 
-# Project Structure
+## Project Structure
 The project consists of Python scripts:
 
 Perform initial data exploration, checking structure and characteristics.
